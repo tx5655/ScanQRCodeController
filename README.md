@@ -19,5 +19,4 @@ ScanQRCodeController
     // modal的方式比较好，可以有点特效duang~~
     scan.modalTransitionStyle = UIModalTransitionStyleFlipHorizontal;
     [self presentViewController:scan animated:YES completion:nil];
-    
-}
+    }
