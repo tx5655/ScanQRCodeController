@@ -24,3 +24,8 @@ ScanQRCodeController
     }
 
 ```
+
+* Note
+    * 使用系统自带API,需要保证SDK在ios7以上
+    * 提供UI样式xib，可以手动调整自己需要的样式
+    * 简单方便，快速集成
