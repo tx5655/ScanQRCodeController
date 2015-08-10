@@ -5,6 +5,8 @@ ScanQRCodeController
 ```c
 #import "ScanQRCodeController.h"
 ```
+
+```objective-c
     - (IBAction)ScanQRCodeAction:(UIButton *)sender {
     //1 创建
     ScanQRCodeController *scan = [[ScanQRCodeController alloc] init];
@@ -20,3 +22,5 @@ ScanQRCodeController
     scan.modalTransitionStyle = UIModalTransitionStyleFlipHorizontal;
     [self presentViewController:scan animated:YES completion:nil];
     }
+
+```
