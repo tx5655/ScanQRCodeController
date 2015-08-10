@@ -1,6 +1,9 @@
 ScanQRCodeController
 ====
 ###A simple tool for scanning QR code
+
+![](https://github.com/tx5655/ScanQRCodeController/ScanQRCodeDemo/QQ20150810-1@2x.png)
+
 * Usage
 ```c
 #import "ScanQRCodeController.h"
