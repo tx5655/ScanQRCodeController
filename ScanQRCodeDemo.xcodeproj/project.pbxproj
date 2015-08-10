@@ -17,6 +17,7 @@
 		D3E3CBAB1B78573100EF6BF9 /* ScanQRCodeController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E3CBA81B78573100EF6BF9 /* ScanQRCodeController.m */; };
 		D3E3CBAC1B78573100EF6BF9 /* ScanQRCodeController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3E3CBA91B78573100EF6BF9 /* ScanQRCodeController.xib */; };
 		D3E3CBAD1B78573100EF6BF9 /* ScanQRCodeRes.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D3E3CBAA1B78573100EF6BF9 /* ScanQRCodeRes.bundle */; };
+		D3E3CBAF1B78783400EF6BF9 /* QQ20150810-1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D3E3CBAE1B78783400EF6BF9 /* QQ20150810-1@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D3E3CBA81B78573100EF6BF9 /* ScanQRCodeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanQRCodeController.m; sourceTree = "<group>"; };
 		D3E3CBA91B78573100EF6BF9 /* ScanQRCodeController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ScanQRCodeController.xib; sourceTree = "<group>"; };
 		D3E3CBAA1B78573100EF6BF9 /* ScanQRCodeRes.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ScanQRCodeRes.bundle; sourceTree = "<group>"; };
+		D3E3CBAE1B78783400EF6BF9 /* QQ20150810-1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QQ20150810-1@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 		D3E3CB7F1B7856D700EF6BF9 /* ScanQRCodeDemo */ = {
 			isa = PBXGroup;
 			children = (
+				D3E3CBAE1B78783400EF6BF9 /* QQ20150810-1@2x.png */,
 				D3E3CBA61B78573100EF6BF9 /* 二维码扫描 */,
 				D3E3CB841B7856D700EF6BF9 /* AppDelegate.h */,
 				D3E3CB851B7856D700EF6BF9 /* AppDelegate.m */,
@@ -223,6 +226,7 @@
 				D3E3CB8C1B7856D700EF6BF9 /* Main.storyboard in Resources */,
 				D3E3CB911B7856D700EF6BF9 /* LaunchScreen.xib in Resources */,
 				D3E3CB8E1B7856D700EF6BF9 /* Images.xcassets in Resources */,
+				D3E3CBAF1B78783400EF6BF9 /* QQ20150810-1@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -438,6 +442,7 @@
 				D3E3CBA21B7856D700EF6BF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D3E3CBA31B7856D700EF6BF9 /* Build configuration list for PBXNativeTarget "ScanQRCodeDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -446,6 +451,7 @@
 				D3E3CBA51B7856D700EF6BF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
