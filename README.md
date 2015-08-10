@@ -2,7 +2,7 @@ ScanQRCodeController
 ====
 ###A simple tool for scanning QR code
 
-![](https://github.com/tx5655/ScanQRCodeController/ScanQRCodeDemo/QQ20150810-1@2x.png)
+![](https://raw.githubusercontent.com/tx5655/ScanQRCodeController/master/ScanQRCodeDemo/QQ20150810-1%402x.png)
 
 * Usage
 ```c
